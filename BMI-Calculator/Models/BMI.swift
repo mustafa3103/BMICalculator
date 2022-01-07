@@ -4,5 +4,12 @@
 //
 //  Created by Mustafa on 6.01.2022.
 //
+import UIKit
 
-import Foundation
+struct BMI {
+    
+    let value: Float
+    let advice: String
+    let color: UIColor
+    
+}
